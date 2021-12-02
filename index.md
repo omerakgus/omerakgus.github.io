@@ -1,8 +1,8 @@
-## Haşgeldiniz...
+## Hoşgeldiniz...
 
-You can use the [editor on GitHub](https://github.com/omerakgus/omerakgus.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+Sosyal Medya Uzmanı, Grafik Tasarımcı ve Dijital İçerik Üreticisiyim. Sosyal medya ve tasarım üzerine yeni gelişmeleri ve bilgi verici içerikleri web sitemde yazıyorum.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Yaptığım iş kısaca çevrimiçi ürün tasarımcılığı şeklinde özetlenebilir. 2021 yılı itibariyle, kendi projelerimiz ve iş ortaklarımız ile yürüttüğümüz çalışmalar için "Kullanıcı Merkezli Arayüzler" tasarlamaya devam ediyorum.
 
 ### Markdown
 
