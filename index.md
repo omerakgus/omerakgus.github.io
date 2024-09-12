@@ -8,4 +8,4 @@ Yaptığım iş kısaca çevrimiçi ürün tasarımcılığı şeklinde özetlen
 
 omerakgus@gmail.com
 
-Projeler için tıklayınız.
+<a href="https://omerakgus.github.io/projeler">Projeler için</a> tıklayınız.
