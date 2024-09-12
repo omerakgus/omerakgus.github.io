@@ -7,3 +7,5 @@ Yaptığım iş kısaca çevrimiçi ürün tasarımcılığı şeklinde özetlen
 ### İletişim:
 
 omerakgus@gmail.com
+
+Projeler için tıklayınız.
